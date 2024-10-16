@@ -21,11 +21,10 @@ Please provide recommendations on raising prices next year.
 
 Dashboard Features:
 
-Hourly Revenue Analysis: Visualizes the hourly revenue fluctuations to identify peak times and potential pricing adjustments.
-Profit and Revenue Trends: Tracks the overall financial health of PedalPal by comparing profit and revenue trends over time.
-Seasonal Revenue: Analyzes revenue patterns throughout the year to understand seasonal variations and optimize pricing strategies.
-Rider Demographics: Provides insights into the characteristics of PedalPal's rider base, helping to tailor marketing efforts and services.
-Usage:
+Hourly Revenue Analysis: Visualised the hourly revenue fluctuations to identify peak times and potential pricing adjustments.
+Profit and Revenue Trends: Tracked the overall financial health of PedalPal by comparing profit and revenue trends over time.
+Seasonal Revenue: Analyzed revenue patterns throughout the year to understand seasonal variations and optimize pricing strategies.
+Rider demographic: Visualised the rider segmentation to determine how many are registed vs those that are casual.
 
 Recommendations:
 
