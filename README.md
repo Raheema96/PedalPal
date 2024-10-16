@@ -2,7 +2,7 @@
 Project Title: PedalPal Dashboard
 
 Description:
-This repository contains the code for a data-driven dashboard designed to provide actionable insights into the performance of a fictitious company PedalPal. The dashboard visualizes key metrics, such as hourly revenue, profit and revenue trends, seasonal revenue, and rider demographics.
+This repository contains the sql code for a data-driven dashboard designed to provide actionable insights into the performance of a fictitious company PedalPal. The dashboard visualizes key metrics, such as hourly revenue, profit and revenue trends, seasonal revenue, and rider demographics.
 
 Motivation:
 The project was initiated in response to the following email request:
