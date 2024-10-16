@@ -26,6 +26,10 @@ Profit and Revenue Trends: Tracked the overall financial health of PedalPal by c
 Seasonal Revenue: Analyzed revenue patterns throughout the year to understand seasonal variations and optimize pricing strategies.
 Rider demographic: Visualised the rider segmentation to determine how many are registed vs those that are casual.
 
+Tools:
+Power BI: Used for data modeling, visualization, and interactive analysis.
+SQL Server Management Studio: Used for data extraction and preparation.
+
 Recommendations:
 
 Conservative Increases: Given the substantial price hikes in 2022, a more cautious approach is advisable to avoid reaching a price ceiling. A gradual increase of 10-15% can assess market receptiveness without risking significant customer attrition.
